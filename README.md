@@ -1,11 +1,11 @@
-### Hey There, I'm Sunny :octocat:
+### Hey there, I'm Sunny 😄
 ---
 
 #### I'm a Full-Stack Engineer based in New Delhi, India :india:
 #### Find more about me on - [ <a href="https://sunnysetia.in">sunnysetia.in</a>, <a href="https://www.linkedin.com/in/sunnysetia93/">linkedIn</a>, <a href="https://twitter.com/millycodes/">twitter</a> ]
 
 <!--
-**sunnysetia93/sunnysetia93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sunnysetia93/sunnysetia93** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
