@@ -2,7 +2,7 @@
 ---
 
 #### I'm a Full-Stack Engineer based in New Delhi, India :india:
-###### To find more about me, visit - [ <a href="https://sunnysetia.in">sunnysetia.in</a>, <a href="https://www.linkedin.com/in/sunnysetia93/">linkedIn</a>, <a href="https://twitter.com/millycodes/">twitter</a> ]
+###### To find more about me, visit - [ <a href="https://sunnysetia.in">sunnysetia.in</a>, <a href="https://www.linkedin.com/in/sunnysetia93/">linkedIn</a>, <a href="https://twitter.com/sunny_setia_/">twitter</a> ]
 
 <!--
 **sunnysetia93/sunnysetia93** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
