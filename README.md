@@ -1,7 +1,4 @@
-### Hey there :)
----
-#### I'm a Full-Stack Engineer based out of India :india:
-###### To know more about me, visit - <a href="https://sunnysetia.in">sunnysetia.in</a>
+### :octocat:  Full Stack Engineer
 
 <!--
 **sunnysetia93/sunnysetia93** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
